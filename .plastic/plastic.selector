@@ -1,0 +1,4 @@
+repository "smvzGit@localhost:8087"
+  path "/"
+    br "/main"
+    co "/main"
